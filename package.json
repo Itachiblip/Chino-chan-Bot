@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "nodemon --inspect index.js"
   },
-  "author": "",
+  "author": "100091369382921",
   "license": "ISC",
   "dependencies": {
     "events": "^3.3.0",
